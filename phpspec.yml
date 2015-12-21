@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: REM
+        psr4_prefix: REM
+        src_path: app
