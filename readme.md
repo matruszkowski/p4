@@ -1,28 +1,39 @@
-## Laravel PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+# Real Estate Manager - REM 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Live URL
+<http://p4.mruszkowski.me>
+<http://rem.mruszkowski.me>
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+## Description
 
-## Official Documentation
+REM is a web application used for managing a company which have projects related to office refurbishment, fit-out and construction management. 
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Application base on time-management method called Getting Things Done GTD. When we use that, we can be certain of be right on time.
 
-## Contributing
+Users can start new projects, plan it in gantt chart, share tasks with other people and collaborate with them.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Also your team can save/share and get contacts 
+and info about companies.
 
-## Security Vulnerabilities
+## Demo
+<https://p4.mruszkowski.me/introduce/>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## Details for teaching team
+I end all what I can, because of extended and complicated an application what I have in my mind. I think that people use React or Vuejs now in production and it is stable and ready to use.
+I'm taking information and share with my knowledge and dubts with people from https://www.livecoding.tv/ - I think this is amazing, and I will use it in the future.
 
-### License
+Angular gantt is setuped elsewhere because of 2 differents js frameworks.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-# p4
+Changelog I will be updating my self here, and in application. I get great feedback from people around me and I will end it, simpli my non
+
+## Outside code
+* Bootstrap [http://getbootstrap.com/](http://getbootstrap.com/)
+* Bootstrap theme from [bootswatch](http://bootswatch.com/sandstone/)
+* Vue UI [http://vueui.github.io/](http://vueui.github.io/)
+* Angular Gantt [https://www.angular-gantt.com](https://www.angular-gantt.com)
+* jQuery: [https://jquery.com/](https://jquery.com/)
+* https://laravelcollective.com/docs/5.0/html
+* http://todomvc.com/ - js concept and styles :)
+* http://www.sanwebe.com/2013/10/css-html-form-styles
+* features and short keys for Sublime after taking also laracast 

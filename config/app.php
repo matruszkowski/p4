@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'debug' => env('APP_DEBUG', false),
+    'debug' => env('APP_DEBUG', true),
 
     /*
     |--------------------------------------------------------------------------
@@ -144,6 +144,8 @@ return [
         REM\Providers\AuthServiceProvider::class,
         REM\Providers\EventServiceProvider::class,
         REM\Providers\RouteServiceProvider::class,
+
+        Barryvdh\Debugbar\ServiceProvider::class,
 
     ],
 
